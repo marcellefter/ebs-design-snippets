@@ -9,7 +9,7 @@
     "name": "Marcel Lefter",
     "url": "https://github.com/marcellefter"
   },
-  "publisher": "marcellefter",
+  "publisher": "ebs-integrator",
   "repository": "https://github.com/marcellefter/ebs-design-snippets",
   "engines": {
     "vscode": "^1.57.0"
