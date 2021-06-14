@@ -8,6 +8,8 @@
     "name": "Marcel Lefter",
     "url": "https://github.com/marcellefter"
   },
+  "publisher": "marcellefter",
+  "repository": "https://github.com/marcellefter/ebs-design-snippets",
   "engines": {
     "vscode": "^1.57.0"
   },
@@ -17,7 +19,19 @@
   "contributes": {
     "snippets": [
       {
-        "language": "javascript, typescript, react, javascriptreact, typescriptreact",
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
         "path": "./snippets/snippets.code-snippets"
       }
     ]

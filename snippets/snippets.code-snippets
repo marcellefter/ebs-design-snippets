@@ -1,6 +1,8 @@
 {
   "Button": {
     "prefix": "ebsbtn",
-    "body": "<Button type=\"${1|primary,fill,ghost,dark,light,text|}\">$2</Button>"
+    "body": [
+      "<Button type=\"${1|primary,fill,ghost,dark,light,text|}\">$2</Button>"
+    ],
   }
 }
