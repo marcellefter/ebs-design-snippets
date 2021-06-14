@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "displayName": "EBS Design Snippets",
   "description": "EBS Design Snippets for Visual Studio Code",
+  "icon": "images/logo.png",
   "author": {
     "email": "leftermarcel@gmail.com",
     "name": "Marcel Lefter",
