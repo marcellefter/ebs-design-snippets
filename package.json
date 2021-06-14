@@ -1,20 +1,25 @@
 {
-    "name": "ebs-design-snippets",
-    "displayName": "EBS Design Snippets",
-    "description": "EBS Design Snippets for Visual Studio Code",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "javascript, typescript, react, javascriptreact, typescriptreact",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
-    }
+  "name": "ebs-design-snippets",
+  "version": "0.0.1",
+  "displayName": "EBS Design Snippets",
+  "description": "EBS Design Snippets for Visual Studio Code",
+  "author": {
+    "email": "leftermarcel@gmail.com",
+    "name": "Marcel Lefter",
+    "url": "https://github.com/marcellefter"
+  },
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript, typescript, react, javascriptreact, typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
 }
