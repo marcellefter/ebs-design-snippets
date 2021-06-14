@@ -6,7 +6,7 @@
 
 ## Install
 
-[Install the extension here](https://marketplace.visualstudio.com/items?itemName=marcellefter.ebs-design-snippets)
+[Install the extension here](https://marketplace.visualstudio.com/items?itemName=ebs-integrator.ebs-design-snippets)
 
 Or by opening the Command Palette (Ctrl+Shift+P), and running
 
